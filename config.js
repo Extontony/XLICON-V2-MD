@@ -5,33 +5,28 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
-
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233531910067', 'Abraham Dwamena3', true],
-  
+  ['263781206152', 'WHITE', true], 
+  ['263711382723', 'Exton', true],
+  ['263780828991', 'Exton Tony-(liltee)', true], 
+  ['263781206152', 'Tony ⚡', true],
+  ['263781206152', 'TMZ', true],
+  ['263780828991', '04', true]
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
-
-global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
-global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087','233531910067']
+global.mods = ['263781206152', '263711382723', '263780828991'] 
+global.prems = ['263781206152', '263780828991', '263711382723',]
+global.allowed = ['263781206152', '263780828991', '263711382723']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
+global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
+global.keysxteam = global.keysxteammm[Math.floor(global.keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
+global.keysneoxr = global.keysneoxrrr[Math.floor(global.keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 global.beta = 'mLxstUwm'
 
 global.APIs = { // API Prefix
-  // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
   lol: 'https://api.lolhuman.xyz',
@@ -44,32 +39,31 @@ global.APIs = { // API Prefix
   bg: 'http://bochil.ddns.net',
   fgmods: 'https://api-fgmods.ddns.net'
 }
+
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-  'https://api.neoxr.my.id': `${keysneoxr}`,	
+  'https://api.neoxr.my.id': global.keysneoxr,
   'https://violetics.pw': 'beta',
-  'https://zenzapis.xyz': `${keysxxx}`, 
+  'https://zenzapis.xyz': global.keysxxx, 
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'EXTON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'JOKER TECH TEAM' 
+global.author = '@EXTON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaVCDGH0G0XbD73uZ42W\n' 
+global.dygp = 'https://whatsapp.com/channel/0029VaVCDGH0G0XbD73uZ42W'
+global.fgsc = 'https://github.com/Extontony/EXTON-V2-MD' 
+global.fgyt = 'https://youtube.com/@liltee54 '
+global.fgpyp = 'https://youtube.com/@liltee54 '
+global.fglog = 'EXTON.jpg' 
+global.thumb = fs.readFileSync('./EXTON.jpg')
 
-
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _EXTON IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
@@ -77,7 +71,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '3' // maximum warnings
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
@@ -85,3 +79,5 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+
+

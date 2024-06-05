@@ -1,42 +1,42 @@
-# `XLICON-V2-MD`
+# `EXTON-V2-MD WE ARE ADDING FEATURES MORE STUFF`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20EXTON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
 <p align="center">
   
->XLICON-V2-MD is based on :
+>EXTON-V2-MD is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![EXTON](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **About XLICON-V2**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About EXTON-V2**
+EXTON-V2 is a versatile Multi-Device WhatsApp bot developed by [Extontony](https://github.com/Extontony). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{EXTON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/Extontony/EXTON-V2-MD?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Extontony/EXTON-V2-MD?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/Extontony/EXTON-V2-MD?style=for-the-badge)
 
 ####  
-*XLICON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
+*EXTON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find EXTON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -57,18 +57,16 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-
+<a href='https://github.com/Extontony/EXTON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+    <br>
 2. Get Session ID (SERVER 1)
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+<a href='https://replit.com/@S4SalmanYt/EXTON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+    <br>
 2. Get Session ID (SERVER 2)
     <br>
 <a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+    <br>
 
 ## 🚀 `Deployments`
 #### DEPLOY TO HEROKU 
@@ -79,7 +77,7 @@ Thanks to all contributors! 🚀
 
 2. Now Deploy
     <br>
-<a href='https://xlicon-v2-deploy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FExtontony%2FEXTON-V2-MD%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FExtontony%2FEXTON-V2-MD%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
 
 #### DEPLOY TO REPLIT
 
@@ -90,7 +88,7 @@ Thanks to all contributors! 🚀
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/Extontony/EXTON-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
@@ -167,16 +165,16 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/Extontony"><img src="https://github.com/Extontony.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**Exton-V2** - By `Extontony`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
 <a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**EXTON-V2** - By `abrahamdw882`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
@@ -211,13 +209,14 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## 🙌 `Bot Developers and Contributors`
 | [![Mzn King](https://github.com/mznking.png)](https://github.com/mznking) | [![Suhail Tech Info](https://github.com/SuhailTechInfo.png)](https://github.com/SuhailTechInfo.) | [![Maher Zubair](https://github.com/Maher-Zubair.png)](https://github.com/Maher-Zubair) | [![VENOX](https://github.com/V-E-N-O-X.png)](https://github.com/V-E-N-O-X) | [![Syntax-king](https://github.com/syntax-king.png)](https://github.com/syntax-king) |
-| -------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Mzn King**<br>`Contributor`<br>`Bot Development`<br>`Bot Testing` | **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **VENOX**<br>`Menu Designs`<br>`Xlicon Web`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
+| -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| **Mzn King**<br>`Contributor`<br>`Bot Development`<br>`Bot Testing` | **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **VENOX**<br>`Menu Designs`<br>`EXTON Web`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
 
 ## 📊 `GitHub Stats of Bot Contributors`
-[![Salman Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanytofficial&show_icons=true&theme=radical)](https://github.com/salmanytofficial)
+[![Salman Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Extontony&show_icons=true&theme=radical)](https://github.com/Extontony)
 [![Abraham Dwamena's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=radical)](https://github.com/abrahamdw882)
 [![Suhail Tech Info's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailTechInfo&show_icons=true&theme=radical)](https://github.com/SuhailTechInfo)
+[![VenoxSenpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-E-N-O-X&show_icons=true&theme=radical)](https://github.com/V-E-N-O-X)
 [![Mzn King's GitHub stats](https://github-readme-stats.vercel.app/api?username=mznking&show_icons=true&theme=radical)](https://github.com/mznking)
 [![Maher Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maher-Zubair&show_icons=true&theme=radical)](https://github.com/Maher-Zubair)
 
